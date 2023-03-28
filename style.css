@@ -221,4 +221,10 @@ a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
+  .header__img {
+    margin-bottom: 53px;
+  }
+  .card__title {
+    font-size: 32px;
+  }
 }/*# sourceMappingURL=style.css.map */
