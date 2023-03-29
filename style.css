@@ -273,4 +273,10 @@ a {
   .footer__button {
     display: flex;
   }
+  /*forest.html*/
+  .travel__title {
+    width: 290px;
+    font-size: 28px;
+  }
+  /*forest.html*/
 }/*# sourceMappingURL=style.css.map */
