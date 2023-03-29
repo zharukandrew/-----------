@@ -273,4 +273,32 @@ a {
   .footer__button {
     display: flex;
   }
+  /*forest.html*/
+  .travel {
+    margin-left: -170px;
+  }
+  .travel__title {
+    width: 290px;
+    font-size: 28px;
+  }
+  .travel__img {
+    width: 290px;
+  }
+  .travel__text {
+    width: 290px;
+  }
+  .travel__page {
+    font-size: 16px;
+    width: 290px;
+  }
+  .travel__button-link {
+    font-size: 16px;
+  }
+  .travel__wrapper {
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+    flex-direction: column;
+  }
+  /*forest.html*/
 }/*# sourceMappingURL=style.css.map */
